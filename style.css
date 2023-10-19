@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    background-color: rgb(171, 170, 170);
+    /* background-color: rgb(209, 208, 208); */
+    width: 424px;
+    height: 556px;
+
+    text-align: center;
+}
+
+.container1 {
+    background-color: white;
+    width: 373px;
+    height: 484px;
+    position: relative;
+    top: 23px;
+    left: 23px;
+}
+
+.container1 td {
+    padding: 5px 50px;
+}
+
+.container1 input {
+    width: 301px;
+    height: 33px;
+    margin: 19px;
+}
+
+.sign button {
+    background-color: green;
+    color: white;
+    width: 301px;
+    height: 43px;
+    margin: 19px;
+}
+
+.google button {
+    background-color: red;
+    color: white;
+    width: 133px;
+    height: 33px;
+}
+
+td .face {
+    background-color: blue;
+}
+
+.face button {
+    background-color: blue;
+    position: relative;
+    left: 83px;
+    bottom: 38px;
+}
+
+.Git button {
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 83px;
+    bottom: 61px;
+}
+
+.Linked button {
+    background-color: blue;
+    position: relative;
+    left: -69px;
+    bottom: 27px;
+}
+p{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+}
+p.state{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    font-weight: 100;
+}
